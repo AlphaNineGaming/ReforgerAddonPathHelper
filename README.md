@@ -4,7 +4,7 @@ A small Windows utility for moving Arma Reforger Workshop downloads to a folder 
 
 ## Download
 
-Open the [`release`](release) folder and download all four files to the same folder. Run `ReforgerAddonPathHelper.exe`.
+Download [`ReforgerAddonPathHelper-win-x64.zip`](release/ReforgerAddonPathHelper-win-x64.zip), extract it, and run `ReforgerAddonPathHelper.exe`.
 
 The prebuilt app targets Windows x64 and requires the **.NET 8 Desktop Runtime**. It does not install .NET automatically.
 
